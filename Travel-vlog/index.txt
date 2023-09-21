@@ -1,0 +1,213 @@
+Travel Blog
+
+# HEADER
+
+<ion-icon name="call-outline"></ion-icon>
+For Further Inquires :
++01 (123) 4567 90
+
+alt = Tourly logo
+
+aria-label = Search
+<ion-icon name="search"></ion-icon>
+
+aria-label = Open Menu
+<ion-icon name="menu-outline"></ion-icon>
+
+<ion-icon name="logo-facebook"></ion-icon>
+<ion-icon name="logo-twitter"></ion-icon>
+<ion-icon name="logo-youtube"></ion-icon>
+
+alt = Travel Blog
+
+aria-label = Close Menu
+<ion-icon name="close-outline"></ion-icon>
+
+home
+about us
+destination
+packages
+gallery
+contact us
+
+Book Now
+
+
+
+# HERO
+
+Journey to explore world
+
+Embarking on a journey to explore the world is a life-changing adventure filled with boundless opportunities to discover new cultures, landscapes, and experiences. It's a quest to broaden your horizons, gain a deeper understanding of humanity, and create lasting memories. From traversing lush rainforests to scaling towering mountains, wandering through historic cities to immersing yourself in remote villages, this journey promises a tapestry of diverse sights, sounds, and tastes. Along the way, you'll encounter fascinating people, savor exotic cuisines, and collect stories that will shape your perspective for years to come. Remember, the world is your playground, and your exploration knows no bounds.
+
+
+Learn more
+Book now
+
+
+
+# TOUR SEARCH
+
+Search Destination* 
+placeholder = Enter Destination
+
+Pax Number* 
+placeholder = No.of People
+
+Checkin Date*
+
+Checkout Date*
+
+Inquire now
+
+
+
+# POPULAR
+
+Uncover place
+
+Popular destination
+
+  A journey is an expedition or voyage from one place to another, often involving physical travel or a metaphorical progression through experiences, challenges, or phases of life. Journeys can be literal, such as a road trip or a flight, or symbolic, like a personal growth journey. They typically involve a starting point, a series of steps or events, and a destination or goal. Journeys can be filled with adventures, discoveries, and personal transformations 
+
+alt = Jog falls , india
+
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+
+India
+
+Jog falls
+
+Jog Falls, also known as Gerusoppa Falls, is nestled in the dense forests of the Western Ghats.
+
+alt =Goa
+
+India
+
+Goa
+
+alt =Tibetan temple, India
+
+india
+
+Tibetan temple
+
+More destintion
+
+
+
+# PACKAGE
+
+Popular Packeges
+
+Checkout Our Packeges
+
+A journey is an expedition or voyage from one place to another, often involving physical travel or a metaphorical progression through experiences, challenges, or phases of life. Journeys can be literal, such as a road trip or a flight, or symbolic, like a personal growth journey. They typically involve a starting point, a series of steps or events, and a destination or goal. Journeys can be filled with adventures, discoveries, and personal transformations
+
+
+alt = Experience The Great Holiday On Beach
+
+Experience The Great Holiday On Beach
+
+Enjoy beauty of Hawa Mahal
+
+<ion-icon name="time"></ion-icon>
+7D/6N
+
+<ion-icon name="people"></ion-icon>
+pax: 10
+
+<ion-icon name="location"></ion-icon>
+Malaysia
+
+(25 reviews)
+
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+<ion-icon name="star"></ion-icon>
+
+Rs750
+/ per person
+
+Book Now
+
+
+(20 reviews)
+Rs520
+
+
+(40 reviews)
+Rs660
+
+
+View All Packages
+
+
+
+# GALLERY
+
+Photo Gallery
+
+Photo's From Travellers
+
+ "Standing tall in the heart of New Delhi, the India Gate is a solemn memorial honoring the brave soldiers who sacrificed their lives in World War I.The Taj Mahal, a masterpiece of Mughal architecture, is a mesmerizing symbol of eternal love.
+
+
+alt = Gallery image
+
+
+
+# CTA
+
+Call To Action
+
+Ready For Unforgatable Travel. Remember Us!
+
+ A journey is an expedition or voyage from one place to another, often involving physical travel or a metaphorical progression through experiences, challenges, or phases of life. Journeys can be literal, such as a road trip or a flight, or symbolic, like a personal growth journey.
+
+Contact Us !
+
+
+
+# FOOTER
+
+alt = Travel Blog 
+
+ Along the way, you'll encounter fascinating people, savor exotic cuisines, and collect stories that will shape your perspective for years to come.
+
+Contact Us
+
+Feel free to contact and reach us !!
+
+<ion-icon name="call-outline"></ion-icon>
++91 7019687965
+
+<ion-icon name="mail-outline"></ion-icon>
+info.travel.com
+
+<ion-icon name="location-outline"></ion-icon>
+3146 Koontz, California
+
+Subscribe our newsletter for more update & news !!
+
+placeholder = Enter Your Email
+
+Subscribe
+
+&copy; 2022 codewithsadee. All rights reserved
+
+Privacy Policy 
+Term & Condition 
+FAQ
+
+
+
+# GO TO TOP
+
+<ion-icon name="chevron-up-outline"></ion-icon>
